@@ -2,6 +2,8 @@
 
 I'm a third year student at the University of Victoria, pursuing a Bachelor's of Science in Computer Science.
 
+I'm passionate about Web/UI Development and solving real-world problems through technology.
+
 ### My Tech Stack
 [![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/jerometaruc?tab=repositories)
 [![Python](https://img.shields.io/badge/python-%23323330?style=for-the-badge&logo=python&logoColor=white)](https://github.com/jerometaruc?tab=repositories)
