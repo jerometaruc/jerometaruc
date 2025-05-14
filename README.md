@@ -1,24 +1,38 @@
-### Hello World, I'm [Jerome](https://jerome-taruc.vercel.app).
+### Hello, I'm Jerome 👋
 
-I'm a third year student at the University of Victoria, pursuing a Bachelor's of Science in Computer Science.
+I'm a third-year Computer Science student at the University of Victoria, passionate about using technology to solve real-world problems and build things that make life a little easier (or more fun).
 
-I'm passionate about Web/UI Development and solving real-world problems through technology.
+Lately, I've been diving deep into **full-stack development** with **React**, **TypeScript**, and **AWS**, working on personal projects that help me learn by doing. Whether it’s trying out a new framework or deploying something end-to-end, I’m always up for a challenge.
 
-### My Tech Stack
-[![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=white)](https://github.com/jerometaruc?tab=repositories)
-[![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/jerometaruc?tab=repositories)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/jerometaruc?tab=repositories)
+When I’m not coding or studying, you’ll find me at the **climbing gym**, **lifting weights**, or **playing games with friends**. I’m always looking to learn, connect, and collaborate, so feel free to reach out.
+
+---
+
+### Tech Stack
+
+#### Web Development
+[![React](https://img.shields.io/badge/React-%23323330.svg?style=for-the-badge&logo=react&logoColor=white)](https://github.com/jerometaruc?tab=repositories)
+[![TypeScript](https://img.shields.io/badge/TypeScript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/jerometaruc?tab=repositories)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/jerometaruc?tab=repositories)
 [![HTML](https://img.shields.io/badge/HTML-%23323330.svg?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-%23323330.svg?style=for-the-badge&logo=css3&logoColor=fff)](https://github.com/jerometaruc?tab=repositories)
-[![MUI](https://img.shields.io/badge/MUI-%23323330.svg?style=for-the-badge&logo=mui&logoColor=white)](https://github.com/jerometaruc?tab=repositories)
-[![Python](https://img.shields.io/badge/python-%23323330?style=for-the-badge&logo=python&logoColor=white)](https://github.com/jerometaruc?tab=repositories)
-[![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/jerometaruc?tab=repositories)
-[![C](https://img.shields.io/badge/c-%23323330.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/jerometaruc?tab=repositories)
-[![Vercel](https://img.shields.io/badge/vercel-%23323330.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/jerometaruc?tab=repositories)
-[![Github Pages](https://img.shields.io/badge/github%20pages-%23323330?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jerometaruc?tab=repositories)
-[![AWS](https://img.shields.io/badge/AWS-%23323330.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white)](https://github.com/jerometaruc?tab=repositories)
-[![Git](https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com/jerometaruc?tab=repositories)
-[![NPM](https://img.shields.io/badge/NPM-%23323330.svg?style=for-the-badge&logo=npm&logoColor=white)](https://github.com/jerometaruc?tab=repositories)
+[![CSS](https://img.shields.io/badge/CSS-%23323330.svg?style=for-the-badge&logo=css3&logoColor=white)](#)
+[![MUI](https://img.shields.io/badge/MUI-%23323330.svg?style=for-the-badge&logo=mui&logoColor=white)](#)
 
-### Let's Connect
-[![LinkedIn](https://img.shields.io/badge/linkedin-%23323330.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerometaruc)
+#### Programming Languages
+[![Python](https://img.shields.io/badge/Python-%23323330.svg?style=for-the-badge&logo=python&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-%23323330.svg?style=for-the-badge&logo=openjdk&logoColor=white)](#)
+[![C](https://img.shields.io/badge/C-%23323330.svg?style=for-the-badge&logo=c&logoColor=white)](#)
+
+#### Tools & Platforms
+[![AWS](https://img.shields.io/badge/AWS-%23323330.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white)](#)
+[![Vercel](https://img.shields.io/badge/Vercel-%23323330.svg?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23323330.svg?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-%23323330.svg?style=for-the-badge&logo=git&logoColor=white)](#)
+[![NPM](https://img.shields.io/badge/NPM-%23323330.svg?style=for-the-badge&logo=npm&logoColor=white)](#)
+
+---
+
+### Let’s Connect
+
+[![Website](https://img.shields.io/badge/Website-%23323330.svg?style=for-the-badge&logoColor=white)](https://www.jerometaruc.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23323330.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerometaruc)
