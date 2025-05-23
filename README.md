@@ -16,7 +16,6 @@ When I’m not coding or studying, you’ll find me at the **climbing gym**, **l
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/jerometaruc?tab=repositories)
 [![HTML](https://img.shields.io/badge/HTML-%23323330.svg?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-%23323330.svg?style=for-the-badge&logo=css3&logoColor=white)](#)
-[![MUI](https://img.shields.io/badge/MUI-%23323330.svg?style=for-the-badge&logo=mui&logoColor=white)](#)
 
 #### Programming Languages
 [![Python](https://img.shields.io/badge/Python-%23323330.svg?style=for-the-badge&logo=python&logoColor=white)](#)
@@ -25,9 +24,8 @@ When I’m not coding or studying, you’ll find me at the **climbing gym**, **l
 
 #### Tools & Platforms
 [![AWS](https://img.shields.io/badge/AWS-%23323330.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white)](#)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%23323330.svg?style=for-the-badge&logo=github&logoColor=white)](#)
 [![Vercel](https://img.shields.io/badge/Vercel-%23323330.svg?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23323330.svg?style=for-the-badge&logo=github&logoColor=white)](#)
-[![Git](https://img.shields.io/badge/Git-%23323330.svg?style=for-the-badge&logo=git&logoColor=white)](#)
 [![NPM](https://img.shields.io/badge/NPM-%23323330.svg?style=for-the-badge&logo=npm&logoColor=white)](#)
 
 ---
